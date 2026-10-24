@@ -23,7 +23,7 @@ html{
 #headshot{
     width:200px;
     height:200px;
-    border-radius: 50%;
+    border-radius: 70%; /*started at 50 */
     margin-left:60px;
 }
 #headline-text{
